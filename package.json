@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-mariadb-vmware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirslo/nodejs-mariadb-vmware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tirslo/nodejs-mariadb-vmware/issues"
+  },
+  "homepage": "https://github.com/Tirslo/nodejs-mariadb-vmware#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.5.5",
+    "newrelic": "^8.5.1"
+  }
+}
